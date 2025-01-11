@@ -51,7 +51,11 @@ This project does not require additional environment variables (`.env`).
 3. Use `Expo Go` or an emulator to view the app on your device.
 
 ## `Screenshots`
-(Add screenshots of the app here)
+
+![WhatsApp Image 2025-01-11 at 7 47 52 AM (1)](https://github.com/user-attachments/assets/d58b6adf-48e7-4e26-ad07-4dc36deb3303)
+![WhatsApp Image 2025-01-11 at 7 47 53 AM (2)](https://github.com/user-attachments/assets/1d892343-f4d6-46e0-964c-a87f3508b259)
+![WhatsApp Image 2025-01-11 at 7 47 53 AM (3)](https://github.com/user-attachments/assets/4ca8ca34-7946-41f4-a58a-4204ce0b6ad2)
+![WhatsApp Image 2025-01-11 at 7 47 53 AM (4)](https://github.com/user-attachments/assets/c07f0b5d-bc42-461f-8170-e1be8b4a44b6)
 
 ## `Contributing`
 Contributions are welcome! Please open an issue or submit a pull request if you want to improve the project.
